@@ -303,4 +303,7 @@ header .container .logo h3{
     .container .left p{
         font-size: 0.7rem;
     }
+    .left h1{
+        padding-top: 1rem;
+    }
 }
